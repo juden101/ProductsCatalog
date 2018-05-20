@@ -1,0 +1,22 @@
+﻿body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div#main{
+    margin:auto;
+    width:60%;
+    background:#b6ff00;
+}
+a{
+    display:inline-block;
+    width:20%;
+    text-decoration:wavy;
+    background:#ff6a00;
+    text-transform:uppercase;
+}
+
+a:hover{
+    
+    background:#00ff21;
+   
+}
