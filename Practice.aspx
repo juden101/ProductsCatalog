@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-
+        <h2> Practice Data Stuff</h2>
         <asp:Button ID="loadProducts" runat="server" Text="load products" OnClick="loadProducts_Click" />
         <asp:Button ID="loadCustomerWithOrders" runat="server" Text="load customer with orders" OnClick="loadCustomerWithOrders_Click" />
          </div>
